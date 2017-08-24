@@ -1,0 +1,16 @@
+.menu-button {
+  background:blue;
+  color:white;
+  padding:5px;
+  text-decoration:none;
+  margin-right:10px;
+}
+.title-solid {
+  color:black;
+   border:3px black solid;
+}
+.title-dashed {
+  color:black;
+   border:3px black dashed;
+}
+body{background:gray}
