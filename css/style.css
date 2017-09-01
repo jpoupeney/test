@@ -13,8 +13,11 @@
   color:black;
    border:3px black dashed;
 }
-body{background:#5f5f5f}
+body{background:#000000 !important}
 .zone {
   border: 2px black solid;
-  display: inline-block; 
+  display: inline-block;
   }
+.menu-nav {
+  background-color:#b10c0c!important;
+}
